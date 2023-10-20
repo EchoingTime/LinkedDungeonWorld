@@ -1,0 +1,19 @@
+USER MANUAL for linkedDungeonWorld created by Dante Anzalone
+
+1) When running the Play class in the linkedDungeonWorld package, you will be asked to type in your name via scanner.
+
+2) Select a class: You are given three pre-made classes, and the fourth one is a secret, which can be accessed if
+you type "fighter" instead of "Fighter." The Over Lord seeks your death and this is one way to achieve that! Be
+careful. The basic classes are the following: Fighter, Knight, or Ranger.
+
+3) Directly after entering your desired class, you must choose 7 options: Display hero statistics as "4", 
+view all the rooms remaining as "5", go through the left door "0", go through the right door "1", inspect the
+left door "8", inspect the right door "9", or exit the game altogether "10". 
+
+4) Enjoy! You will have to rely on the game's RNG to make it as far as you can before dying. Sometimes, if you
+have bad luck, the devil, which is the boss, may sneak into one of the normal rooms! Use the shop to increase your
+health and attack, be careful to input exactly what you see, else the shop Troll will become furious and penalize 
+you. The program was supposed to be a doubly circular linked list, however, it seems like a mutated single linked
+list! The goal is to stay alive as long as you possibly can and increase the amount of doors you have entered. The
+last door, the light, generates a whole new dungeon, while the steel door is just the boss. May be in your best
+interest to skip the boss if you are going for a high score, but as mentioned, he might sneak out! 
